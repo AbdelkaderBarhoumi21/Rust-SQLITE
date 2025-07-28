@@ -1,0 +1,1 @@
+C:\Rust\ Projects\project\sqlite_db\target\debug\examples\c02-join.exe: C:\Rust\ Projects\project\sqlite_db\examples\c02-join.rs C:\Rust\ Projects\project\sqlite_db\src\db_utils.rs C:\Rust\ Projects\project\sqlite_db\src\lib.rs
